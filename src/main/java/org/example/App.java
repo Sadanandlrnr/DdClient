@@ -18,8 +18,8 @@ public class App {
         ApiClient defaultClient = ApiClient.getDefaultApiClient();
         MetricsApi apiInstance = new MetricsApi(defaultClient);
 
-        String api_key = "7276e037fed5a44a1968672dae7577fd";
-        String app_key = "79c2e03d7220f018c2b880657f476a11121295fe";
+        String api_key = "7276e037fed5a44a1968672dae7577fdl";
+        String app_key = "79c2e03d7220f018c2b880657f476a11121295fel";
 
         HashMap<String,String> secret = new HashMap<>();
 
